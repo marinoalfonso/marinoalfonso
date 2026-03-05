@@ -72,19 +72,6 @@ Many projects follow a structured analytical workflow:
 
 ---
 
-## 📈 Featured Projects
-
-Some of the main topics explored in my repositories include:
-
-- **Clustering analysis on sports performance data**
-- **Predictive modelling using match statistics**
-- **Dimensionality reduction techniques (PCA)**
-- **Interactive dashboards and visual analytics**
-
-These projects aim to demonstrate both **technical analytical skills** and the ability to **communicate insights clearly through data visualization**.
-
----
-
 ## 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/alfonso-marino-a5411b2b8/
